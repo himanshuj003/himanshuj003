@@ -24,7 +24,7 @@
 `Cybersecurity` `Ethical Hacking` `Network Security` `Python` `Linux`
 
 **Previously Worked With**  
-`Python` `Multi-Agent AI` `Gradio` `Docker` `Machine Learning` `Jupyter` `JavaScript` `Microsoft Office Add-ins` `xAI / Grok API`
+`Python` `Multi-Agent AI` `Gradio` `Docker` `Machine Learning` `Jupyter` `JavaScript` `xAI / Grok API`
 
 ---
 
@@ -32,8 +32,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[dual-llm-promax](https://github.com/himanshuj003/dual-llm-promax)** | Dual LLM system — two AI models (ChatGPT + Claude / Grok / local) collaborating via Generate→Critique→Refine, Parallel & Debate modes. Streaming, tools, voice, export | Python, Gradio, Docker |
-| **[grok-word-addin](https://github.com/himanshuj003/grok-word-addin)** | Native Grok AI sidebar for Microsoft Word — chat, rewrite, and insert AI responses directly in documents | JavaScript, Office.js, xAI API |
+| **[dual-llm-promax](https://github.com/himanshuj003/dual-llm-promax)** | Dual LLM system — two AI models (ChatGPT + Claude / Gemini / Grok / local) collaborating via Generate→Critique→Refine, Parallel & Debate modes. Streaming, tools, voice, export | Python, Gradio, Docker |
 | **[NUMBER-RECOGNITION](https://github.com/himanshuj003/NUMBER-RECOGNITION)** | Handwritten digit recognition using machine learning | Python, Jupyter, ML |
 | **[TITANIC-CLASSIFICATION](https://github.com/himanshuj003/TITANIC-CLASSIFICATION)** | Predicting Titanic passenger survival | Python, Jupyter, Scikit-learn |
 | **[STOCK-PREDICTION](https://github.com/himanshuj003/STOCK-PREDICTION)** | Stock price prediction experiment (TCS) | Python, Jupyter, ML |
