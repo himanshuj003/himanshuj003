@@ -18,6 +18,12 @@
 
 ---
 
+### 🔗 Find me elsewhere
+
+- 🤗 [Hugging Face](https://huggingface.co/himanshu003)
+
+---
+
 ### 🛠️ Tech & Interests
 
 **Currently Exploring**  
